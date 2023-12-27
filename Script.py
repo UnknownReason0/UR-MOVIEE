@@ -14,10 +14,12 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Mʏ Vᴇʀꜱɪᴏɴ: UR Movie Bot V1.0</b>"""
    
-    SOURCE_TXT = """<b>NOTE:</b>
+    SOURCE_TXT = """<b>Some Important Channel ⬇️</b>
+- Official Channel◉› :<a href=https://t.me/Unknown_Reason>Unknown Reason</a>
 - Hacking Channel◉› :<a href=https://t.me/UR_Hacking>UR Hacking 🧑‍💻</a>
-
-<b>ᴅᴇᴠ: <a herf=https://t.me/Bot_Making_Tips>Bot Making Tips</a></b>"""
+- Bot Making Channel◉› :<a href=https://t.me/Bot_Making_Tips>Bot Making 🎁</a>
+- Discussion Group◉› :<a href=https://t.me/LearnFreeHackings>Discussion Group 🤩</a>
+"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
